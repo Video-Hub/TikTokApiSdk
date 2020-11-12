@@ -1,14 +1,13 @@
 
-# Unofficial TikTok API in Python
 # TikTok非官方 Api Python SDK
-This is an unofficial api wrapper for TikTok.com in python. With this api you are able to call most trending and fetch specific user information as well as much more.
+TikTok非官方ApiSDK
+主要功能模块：视频、用户、标签
 
-
-If you want to use this API as a service visit the [ApiDoc](https://github.com/Video-Hub/tiktok-api)
+如果你想直接使用TikTok在线接口，请查看：
+ [ApiDoc](https://github.com/Video-Hub/tiktok-api)
 
 
 ## Table of Contents
-- [Unofficial TikTok API in Python](#unofficial-tiktok-api-in-python)
 - [TikTok非官方 Api Python SDK](#tiktok非官方-api-python-sdk)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
